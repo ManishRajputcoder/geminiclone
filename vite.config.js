@@ -8,5 +8,5 @@ export default defineConfig(({ command }) => ({
   },
   base: command === 'serve'
     ? '/'
-    : '/GEMINI-Clone-App/',  // 🛑 Replace with your repo name
+    : '/geminiclone/',  // 🛑 Replace with your repo name
 }))
